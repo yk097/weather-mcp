@@ -6,6 +6,7 @@ MCPクライアントに天気情報のコンテキストを追加するMCPサ�
 ```bash
 $ git clone https://github.com/yk097/weather-mcp.git
 $ cd weather-mcp
+$ npm install
 $ npm run build
 ```
 
